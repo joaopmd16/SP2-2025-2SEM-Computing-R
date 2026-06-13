@@ -1,4 +1,4 @@
-# GS 2026.1 - Cluster Computing e Computação Neuromórfica
+# GS 2026.1 - Processamento de Linguagem Natural
 
 Repositório de atividades e projetos desenvolvidos na FIAP.
 
@@ -6,7 +6,7 @@ Repositório de atividades e projetos desenvolvidos na FIAP.
 
 Projeto desenvolvido como parte do curso de **Inteligência Artificial** na FIAP.
 
-**Disciplina:** GS 2026.1 - Cluster Computing e Computação Neuromórfica  
+**Disciplina:** GS 2026.1 - Processamento de Linguagem Natural  
 **Aluno:** João Pedro  
 **GitHub:** [joaopmd16](https://github.com/joaopmd16)
 
