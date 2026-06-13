@@ -1,4 +1,4 @@
-# GS 2026.1 - Frontend
+# GS 2026.1 - RPAGS
 
 Repositório de atividades e projetos desenvolvidos na FIAP.
 
@@ -6,7 +6,7 @@ Repositório de atividades e projetos desenvolvidos na FIAP.
 
 Projeto desenvolvido como parte do curso de **Inteligência Artificial** na FIAP.
 
-**Disciplina:** GS 2026.1 - Frontend  
+**Disciplina:** GS 2026.1 - RPAGS  
 **Aluno:** João Pedro  
 **GitHub:** [joaopmd16](https://github.com/joaopmd16)
 
