@@ -1,4 +1,4 @@
-# Sprint 2 2026.1 - IoT
+# Sprint 2 2026.1 - RPA
 
 Repositório de atividades e projetos desenvolvidos na FIAP.
 
@@ -6,7 +6,7 @@ Repositório de atividades e projetos desenvolvidos na FIAP.
 
 Projeto desenvolvido como parte do curso de **Inteligência Artificial** na FIAP.
 
-**Disciplina:** Sprint 2 2026.1 - IoT  
+**Disciplina:** Sprint 2 2026.1 - RPA  
 **Aluno:** João Pedro  
 **GitHub:** [joaopmd16](https://github.com/joaopmd16)
 
