@@ -1,4 +1,4 @@
-# Sprint 2 2025.2 - Statistical Computing with R
+# GS 2026.1 - Cluster Computing e Computação Neuromórfica
 
 Repositório de atividades e projetos desenvolvidos na FIAP.
 
@@ -6,7 +6,7 @@ Repositório de atividades e projetos desenvolvidos na FIAP.
 
 Projeto desenvolvido como parte do curso de **Inteligência Artificial** na FIAP.
 
-**Disciplina:** Sprint 2 2025.2 - Statistical Computing with R  
+**Disciplina:** GS 2026.1 - Cluster Computing e Computação Neuromórfica  
 **Aluno:** João Pedro  
 **GitHub:** [joaopmd16](https://github.com/joaopmd16)
 
