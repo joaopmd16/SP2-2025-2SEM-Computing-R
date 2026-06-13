@@ -1,4 +1,4 @@
-# GS 2026.1 - Computação Quântica e IA
+# GS 2026.1 - IoT
 
 Repositório de atividades e projetos desenvolvidos na FIAP.
 
@@ -6,7 +6,7 @@ Repositório de atividades e projetos desenvolvidos na FIAP.
 
 Projeto desenvolvido como parte do curso de **Inteligência Artificial** na FIAP.
 
-**Disciplina:** GS 2026.1 - Computação Quântica e IA  
+**Disciplina:** GS 2026.1 - IoT  
 **Aluno:** João Pedro  
 **GitHub:** [joaopmd16](https://github.com/joaopmd16)
 
